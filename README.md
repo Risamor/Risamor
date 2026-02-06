@@ -1,11 +1,11 @@
 # ¡Hola! Soy [Tu Nombre] 👋
 
-## 🎵 Sobre Mío
+# 🎵 Sobre Mío
 Desarrollador y amante de la música. Siempre buscando nuevos sonidos y proyectos interesantes.
 
 ---
 
-## 🎵 Música favorita
+## My Playlist
 
 [![Logo de la cancion XD](https://i.ibb.co/WvLvyKd8/imagen.jpg)](https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=1a2da56facdb46fd)
 [![Logo de la cancion XD](https://i.ibb.co/WvLvyKd8/imagen.jpg)](https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=1a2da56facdb46fd)
@@ -18,7 +18,7 @@ Desarrollador y amante de la música. Siempre buscando nuevos sonidos y proyecto
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-### 📱 **App de Música Local**
-App para descubrir música local y artistas independientes
+### **NeXo Community**
+Desarrollo de una comunidad de Discord
