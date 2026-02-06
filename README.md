@@ -43,3 +43,5 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
 ![xd1](https://skillicons.dev/icons?i=licuadora&theme=light)
 ![xd1](https://skillicons.dev/icons?i=discord&theme=light)
+![xd1](https://skillicons.dev/icons?i=licuadora&theme=light)
+![xd1](https://skillicons.dev/icons?i=licuadora&theme=light)
