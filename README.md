@@ -1,25 +1,31 @@
-# ¡Hola! Soy TuNombre 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-## 🎵 Sobre Mí
-Desarrollador apasionado por la música y tecnología. Me encanta crear proyectos innovadores y descubrir nueva música.
+## 🎵 Sobre Mío
+Desarrollador y amante de la música. Siempre buscando nuevos sonidos y proyectos interesantes.
 
 ---
 
 ## 🎶 Mi Música Favorita
 
-### 🎧 Ella Y Tú - Juan Manuel Lebron
-[![Ella Y Tú](https://img.shields.io/badge/🎵_Escuchar-Ella_Y_Tú-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/ejemplo)
-![Portada](https://images.genius.com/06c4f4edeb0d45947980e34897a0342d.1000x1000x1.jpg)
+### 🎧 Ed Maverick - no hay problema
+[![Spotify](https://img.shields.io/badge/🎵_Spotify-no_hay_problema-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4L6Kqn7zt3m6LiOQh3hZiL)
+*Artista: Ed Maverick*  
+*Género: Indie/Pop*  
+*Álbum: no hay problema*
 
-### 🎧 Canción Ejemplo 2
-[![Canción 2](https://img.shields.io/badge/🎵_Escuchar-Canción_2-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/ejemplo)
+### 🎧 Juan Manuel Lebron - Ella Y Tú
+[![YouTube](https://img.shields.io/badge/🎵_YouTube-Ella_Y_Tú-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ejemplo)
+*Artista: Juan Manuel Lebron*  
+*Género: Balada*  
 
-### 🎧 Canción Ejemplo 3
-[![Canción 3](https://img.shields.io/badge/🎵_Escuchar-Canción_3-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/ejemplo)
+### 🎧 Canción de ejemplo
+[![Apple Music](https://img.shields.io/badge/🎵_Apple_Music-Canción_FA9999?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/ejemplo)
+*Artista: Artista Ejemplo*  
+*Género: Rock*
 
 ---
 
 ## 🚀 Proyectos
 
-### 📱 **App de Tareas** 
-App móvil para gestión de tareas con React Native
+### 📱 **App de Música Local**
+App para descubrir música local y artistas independientes
