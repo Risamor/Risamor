@@ -28,7 +28,18 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 ## Proyectos:
 
 ### **NeXo Community** 
----- Desarrollo de una comunidad de Discord ----
+---- Desarrollador de una comunidad de Discord ----
 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q39aVhwQue)
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
+![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
+
+## Donde trabajo:
+![xd1](https://skillicons.dev/icons?i=anaconda&theme=light)
+![xd1](https://skillicons.dev/icons?i=bots&theme=light)
+![xd1](https://skillicons.dev/icons?i=linux&theme=light)
+![xd1](https://skillicons.dev/icons?i=mysql&theme=light)
+![xd1](https://skillicons.dev/icons?i=py&theme=light)
+![xd1](https://skillicons.dev/icons?i=robloxstudio&theme=light)
+![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
+![xd1](https://skillicons.dev/icons?i=licuadora&theme=light)
