@@ -42,3 +42,6 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 ![xd1](https://skillicons.dev/icons?i=py&theme=light)
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
 ![xd1](https://skillicons.dev/icons?i=discord&theme=light)
+![xd1](https://skillicons.dev/icons?i=arduino&theme=light)
+![xd1](https://skillicons.dev/icons?i=github&theme=light)
+![xd1](https://skillicons.dev/icons?i=html&theme=light)
