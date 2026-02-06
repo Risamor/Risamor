@@ -1,7 +1,6 @@
 # Un gusto, soy Risamor 👋
-
 ## Sobre Mi:
-## Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyectos interesantes
+Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyectos interesantes
 
 ---
 
