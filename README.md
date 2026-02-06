@@ -7,7 +7,7 @@ Desarrollador y amante de la música. Siempre buscando nuevos sonidos y proyecto
 
 ## 🎵 Música favorita
 
-[![no hay problema - Ed Maverick](https://images.genius.com/ejemplo.jpg)](https://open.spotify.com/track/4L6Kqn7zt3m6LiOQh3hZiL)
+[![no hay problema - Ed Maverick][![Mi foto](https://avatars.githubusercontent.com/u/tuusuario?v=4)](https://tuportfolio.com)
 *Haz clic en la imagen para escuchar*
 
 ---
