@@ -29,4 +29,5 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 
 ### **NeXo Community** 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)
+
 Desarrollo de una comunidad de Discord 
