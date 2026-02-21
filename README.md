@@ -33,19 +33,33 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q39aVhwQue)
 
 ### 🍁 ¡Conoce a Megumi!
-<p align="center">
-  <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong><br>
-  <a href="https://discord.com/oauth2/authorize?client_id=ID_DE_TU_BOT" target="_blank">
-    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar Bot" width="50" height="50">
-  </a>
-</p>
+<div style="text-align: left;">
 
-<p align="center">
-  <strong>Vótalo en Top.gg</strong><br>
-  <a href="https://top.gg/bot/ID_DE_TU_BOT" target="_blank">
-    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50">
-  </a>
-</p>
+<!-- Bloque 1 -->
+<div style="margin-bottom: 20px;">
+  <div style="text-align: left;">
+    <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong>
+  </div>
+  <div style="text-align: center; width: fit-content;">
+    <a href="https://discord.com/oauth2/authorize?client_id=ID_DE_TU_BOT" target="_blank">
+      <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar Bot" width="50" height="50">
+    </a>
+  </div>
+</div>
+
+<!-- Bloque 2 -->
+<div style="margin-bottom: 20px;">
+  <div style="text-align: left;">
+    <strong>Vótalo en Top.gg</strong>
+  </div>
+  <div style="text-align: center; width: fit-content;">
+    <a href="https://top.gg/bot/ID_DE_TU_BOT" target="_blank">
+      <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50">
+    </a>
+  </div>
+</div>
+
+</div>
 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=8&integration_type=0&scope=bot+applications.commands)
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
