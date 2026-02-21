@@ -40,7 +40,7 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
   
   <a href="https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot" target="_blank"></p>
     <p align="center">
-    <img src="https://i.ibb.co/xSq366Py/imagen.jpg" alt="Invitar Bot" width="150" height="50" style="display: block; margin: 5px 0 0 0;">
+    <img src="https://i.ibb.co/xSq366Py/imagen.jpg" alt="Invitar Bot" width="150" height="50" style="margin-left: 75px;">
   </a>
 </p>
 
