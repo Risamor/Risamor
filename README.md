@@ -33,17 +33,17 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q39aVhwQue)
 
 ### 🍁 ¡Conoce a Megumi!
-<p align="left">
-  <span style="display: inline-block; vertical-align: middle; line-height: 50px;">👉 ¿Quieres invitarlo a tu servidor? <strong>Invitación del Bot</strong></span>
+<p align="center">
+  <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong><br>
   <a href="https://discord.com/oauth2/authorize?client_id=ID_DE_TU_BOT" target="_blank">
-    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar Bot" width="50" height="50">
   </a>
 </p>
 
-<p align="left">
-  <span style="display: inline-block; vertical-align: middle; line-height: 50px;">⭐ Vótalo en <strong>Top.gg</strong></span>
+<p align="center">
+  <strong>Vótalo en Top.gg</strong><br>
   <a href="https://top.gg/bot/ID_DE_TU_BOT" target="_blank">
-    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar" width="50" height="50" style="vertical-align: middle; margin-left: 10px;">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50">
   </a>
 </p>
 
