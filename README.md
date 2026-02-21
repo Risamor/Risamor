@@ -40,6 +40,7 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 </a>
 
 **Vótalo en Top.gg**
+
 <a href="https://top.gg/bot/123456789012345678" target="_blank">
     <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Ver en Top.gg" width="50" height="50">
 </a>
