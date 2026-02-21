@@ -27,25 +27,27 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 
 ## Proyectos:
 
+<div align="center">
+
 ### 🏦 **NeXo Community** 
 ---- **Desarrollador de una comunidad de Discord** ----
 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q39aVhwQue)
 
-### 🍁 ¡Conoce a Megumi!
-<div style="text-align: left;">
+</div>
 
-<p>
+### 🍁 ¡Conoce a Megumi!
+<p align="center">
   <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong><br>
     <a href="https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot" target="_blank">
-      <img src="https://i.ibb.co/xSq366Py/imagen.jpg" alt="Invitar Bot" width="300" height="100">
+      <img src="https://i.ibb.co/5xKxGhVH/imagen.jpg" alt="Invitar Bot" width="75" height="75">
     </a>
 </p>
 
-<p>
+<p align="center">
   <strong>Vótalo en Top.gg</strong><br>
   <a href="https://top.gg/bot/1469427768054779945" target="_blank">
-    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50" style="display: block; margin: 5px 0 0 0;">
+    <img src="https://i.ibb.co/FbY0T5tZ/imagen.jpg" alt="Votar en Top.gg" width="75" height="75" style="display: block; margin: 5px 0 0 0;">
   </a>
 </p>
 
