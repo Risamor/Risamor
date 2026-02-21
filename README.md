@@ -34,8 +34,12 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 
 ### 🍁 ¡Conoce a Megumi!
 ¿Quieres invitarlo a tu servidor? 
-👉 [**Invitación del Bot**](https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot)
-👉 [**Vótalo en Top.gg**](https://top.gg/bot/1469427768054779945)
+👉 [**Invitación del Bot**]<a href="https://discord.com/oauth2/authorize?client_id=123456789012345678" target="_blank">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar a Discord" width="50" height="50">
+</a>
+👉 [**Vótalo en Top.gg**]<a href="https://top.gg/bot/123456789012345678" target="_blank">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Ver en Top.gg" width="50" height="50">
+</a>
 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=8&integration_type=0&scope=bot+applications.commands)
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
