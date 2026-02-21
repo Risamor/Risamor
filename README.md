@@ -53,6 +53,7 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
   </a>
 </p>
 
+<strong>**Más, muy pronto.....**</strong><br>
 </div>
 
 ## Donde trabajo:
