@@ -35,29 +35,19 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 ### 🍁 ¡Conoce a Megumi!
 <div style="text-align: left;">
 
-<!-- Bloque 1 -->
-<div style="margin-bottom: 20px;">
-  <div style="text-align: left;">
-    <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong>
-  </div>
-  <div style="text-align: center; width: fit-content;">
-    <a href="https://discord.com/oauth2/authorize?client_id=ID_DE_TU_BOT" target="_blank">
-      <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar Bot" width="50" height="50">
-    </a>
-  </div>
-</div>
+<p>
+  <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong><br>
+  <a href="https://discord.com/oauth2/authorize?client_id=ID_DE_TU_BOT" target="_blank">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Invitar Bot" width="50" height="50" style="display: block; margin: 5px 0 0 0;">
+  </a>
+</p>
 
-<!-- Bloque 2 -->
-<div style="margin-bottom: 20px;">
-  <div style="text-align: left;">
-    <strong>Vótalo en Top.gg</strong>
-  </div>
-  <div style="text-align: center; width: fit-content;">
-    <a href="https://top.gg/bot/ID_DE_TU_BOT" target="_blank">
-      <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50">
-    </a>
-  </div>
-</div>
+<p>
+  <strong>Vótalo en Top.gg</strong><br>
+  <a href="https://top.gg/bot/ID_DE_TU_BOT" target="_blank">
+    <img src="https://i.ibb.co/q3DR9VsQ/imagen.jpg" alt="Votar en Top.gg" width="50" height="50" style="display: block; margin: 5px 0 0 0;">
+  </a>
+</p>
 
 </div>
 
