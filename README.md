@@ -27,14 +27,15 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 
 ## Proyectos:
 
-### **NeXo Community** 
+### 🏦 **NeXo Community** 
 ---- Desarrollador de una comunidad de Discord ----
 
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q39aVhwQue)
 
-### **Bot Megumi Fushiguro** 
----- Desarrollo de un bot multifuncional para Discord ----
-
+### 🍁 ¡Conoce a Megumi!
+¿Quieres invitarlo a tu servidor? 
+👉 [**Invitación del Bot**](https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot)
+👉 [**Vótalo en Top.gg**](https://top.gg/bot/1469427768054779945)
 [![xd](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=8&integration_type=0&scope=bot+applications.commands)
 ![xd1](https://skillicons.dev/icons?i=vscode&theme=light)
 ![xd1](https://skillicons.dev/icons?i=bots&theme=light)
