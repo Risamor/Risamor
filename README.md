@@ -38,9 +38,11 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 <p>
   <strong>¿Quieres invitarlo a tu servidor? Invitación del Bot</strong><br>
   
-  <a href="https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot" target="_blank">
-    <img src="https://i.ibb.co/xSq366Py/imagen.jpg" alt="Invitar Bot" width="150" height="50" style="margin-left: 75px;">
-  </a>
+  <div style="margin-left: 75px;">
+    <a href="https://discord.com/oauth2/authorize?client_id=1469427768054779945&permissions=1099780319238&integration_type=0&scope=applications.commands+bot" target="_blank">
+      <img src="https://i.ibb.co/xSq366Py/imagen.jpg" alt="Invitar Bot" width="150" height="50">
+    </a>
+  </div>
 </p>
 
 <p>
