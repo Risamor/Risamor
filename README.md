@@ -53,6 +53,16 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
   </a>
 </p>
 
+<div align="center">
+
+### 🏦 Tema personalizado para Shopify!
+<p>
+  <strong>Desarrollo de un Tema personalizado para una tienda de Shopify</strong><br>
+    <a href="https://fluxstore-6844.myshopify.com" target="_blank">
+      <img src="https://i.ibb.co/dwJNx3Sp/imagen.jpg" alt="Pagina Shopify" width="75" height="75">
+    </a>
+</p>
+
 <strong>--| **Más, muy pronto.....** |--</strong><br>
 </div>
 
