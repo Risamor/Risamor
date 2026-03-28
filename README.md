@@ -63,6 +63,14 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
     </a>
 </p>
 
+### 🌺 Mod para Opera Gx | Version 1.0.0!
+<p>
+  <strong>Desarrollo de MOD para Opera Gx (-- Repositorios de plantilla --)</strong><br>
+    <a href="https://store.gx.me/mods/ijnl5f/yami-no-hime/" target="_blank">
+      <img src="https://i.ibb.co/n8QnDQ5v/imagen.jpg" alt="Mod Opera Gx" width="75" height="75">
+    </a>
+</p>
+
 <strong>--| **Más, muy pronto.....** |--</strong><br>
 </div>
 
