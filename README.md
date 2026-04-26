@@ -13,7 +13,6 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 [![Logo de la cancion XD](https://i.ibb.co/xKWdPtLw/imagen.jpg)](https://open.spotify.com/intl-es/track/698ItKASDavgwZ3WjaWjtz?si=a5ae0887e9e94d97)
 [![Logo de la cancion XD](https://i.ibb.co/pVNTzFs/imagen.jpg)](https://open.spotify.com/intl-es/track/4skuEIloXWuxxgekKupkEH?si=154a30a879d448da)
 [![Logo de la cancion XD](https://i.ibb.co/dwgLQCvt/imagen.jpg)](https://open.spotify.com/intl-es/track/1PREzVLuDT6PSE9sej4wnV?si=d328ce880a864849)
-[![Logo de la cancion XD](https://i.ibb.co/N6yMySDb/imagen.jpg)](https://open.spotify.com/intl-es/track/1EmplgI51VcVtLHYOHOfHc?si=445520e0966f4c3b)
 [![Logo de la cancion XD](https://i.ibb.co/xq9WLmb8/imagen.jpg)](https://open.spotify.com/intl-es/track/5PZJC4QEDWQEO5TkzvN0bm?si=ba9c7b95f9754781)
 [![Logo de la cancion XD](https://i.ibb.co/2Hm4wQs/imagen.jpg)](https://open.spotify.com/intl-es/track/0HlMshB5JmZjPNbOuOgFHN?si=4b3378232bea4a37)
 [![Logo de la cancion XD](https://i.ibb.co/DPNPpMbG/imagen.jpg)](https://open.spotify.com/intl-es/track/5Vd9Uo8p865gynpVm1IXjB?si=45e7c35a212a43da)
