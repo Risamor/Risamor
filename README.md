@@ -13,7 +13,7 @@
 
 |  | Canción | Artista | Álbum | Duración |
 |:-:|---------|---------|-------|----------|
-| <img src="https://i.ibb.co/Vcc7sFwM/imagen.jpg" width="20" align="right" /> | [Track 1](https://open.spotify.com/intl-es/track/2VGT3UYAMvZPh49w6qb0Zk?si=7a4ffadd51654cd4) | *Agrega aquí* | *Agrega aquí* | `00:00` |
+| <img src="https://i.ibb.co/Vcc7sFwM/imagen.jpg" width="30" align="center" /> | [Track 1](https://open.spotify.com/intl-es/track/2VGT3UYAMvZPh49w6qb0Zk?si=7a4ffadd51654cd4) | *Agrega aquí* | *Agrega aquí* | `00:00` |
 | 🎧 | [Track 2](https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=1a2da56facdb46fd) | *Agrega aquí* | *Agrega aquí* | `00:00` |
 | 🎧 | [Track 3](https://open.spotify.com/intl-es/track/1EmplgI51VcVtLHYOHOfHc?si=445520e0966f4c3b) | *Agrega aquí* | *Agrega aquí* | `00:00` |
 | 🎧 | [Track 4](https://open.spotify.com/intl-es/track/3mU0DbuWtUX5KCaovOQZVK?si=5a60a638b77b46eb) | *Agrega aquí* | *Agrega aquí* | `00:00` |
