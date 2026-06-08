@@ -1,4 +1,4 @@
-# ✦ Un gusto, soy Risamor ✦
+# Un gusto, soy Risamor ✦
 
 <img src="https://i.ibb.co/Vcc7sFwM/imagen.jpg" width="120" align="right" />
 
@@ -11,22 +11,22 @@
 
 ## 📀 Mi Playlist Personal
 
-|  | Canción | Artista | Álbum | Duración |
-|:-:|---------|---------|-------|----------|
-| <img src="https://i.ibb.co/Vcc7sFwM/imagen.jpg" width="30" align="center" /> | [Track 1](https://open.spotify.com/intl-es/track/2VGT3UYAMvZPh49w6qb0Zk?si=7a4ffadd51654cd4) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 2](https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=1a2da56facdb46fd) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 3](https://open.spotify.com/intl-es/track/1EmplgI51VcVtLHYOHOfHc?si=445520e0966f4c3b) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 4](https://open.spotify.com/intl-es/track/3mU0DbuWtUX5KCaovOQZVK?si=5a60a638b77b46eb) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 5](https://open.spotify.com/intl-es/track/3scW7pt0vlhkCCgCNv5YR9?si=55d84b6711004f1e) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 6](https://open.spotify.com/intl-es/track/698ItKASDavgwZ3WjaWjtz?si=a5ae0887e9e94d97) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 7](https://open.spotify.com/intl-es/track/4skuEIloXWuxxgekKupkEH?si=154a30a879d448da) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 8](https://open.spotify.com/intl-es/track/1PREzVLuDT6PSE9sej4wnV?si=d328ce880a864849) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 9](https://open.spotify.com/intl-es/track/0HlMshB5JmZjPNbOuOgFHN?si=4b3378232bea4a37) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 10](https://open.spotify.com/intl-es/track/5zEQKo9DltxJxWouI5zV9M?si=e2a0d66fc9a449cc) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 11](https://open.spotify.com/intl-es/track/5XeFesFbtLpXzIVDNQP22n?si=2e23e362732b4b14) | *Agrega aquí* | *Agrega aquí* | `00:00` |
-| 🎧 | [Track 12](https://open.spotify.com/intl-es/track/1qBdJHxR2qY0dFad0ZI8sj?si=df5517f876cc415e) | *Agrega aquí* | *Agrega aquí* | `00:00` |
+|  | Canción | Artista | Duración |
+|:-:|---------|---------|----------|
+| <img src="https://i.ibb.co/Vcc7sFwM/imagen.jpg" width="30" align="center" /> | [From The Start](https://open.spotify.com/intl-es/track/2VGT3UYAMvZPh49w6qb0Zk?si=7a4ffadd51654cd4) | zxnc | `01:18` |
+| <img src="https://i.ibb.co/WvLvyKd8/imagen.jpg" width="30" align="center" /> | [Hasta La Raiz](https://open.spotify.com/intl-es/track/3lGMtkONrZdJ8kTCg6KIFf?si=1a2da56facdb46fd) | Natalia Lafourcade | `03:41` |
+| <img src="https://i.ibb.co/N6yMySDb/imagen.jpg" width="30" align="center" /> | [Mr.Trance](https://open.spotify.com/intl-es/track/1EmplgI51VcVtLHYOHOfHc?si=445520e0966f4c3b) | Esteman | `022:49` |
+| <img src="https://i.ibb.co/20sNNmzS/imagen.jpg" width="30" align="center" /> | [Rosa Pastel](https://open.spotify.com/intl-es/track/3mU0DbuWtUX5KCaovOQZVK?si=5a60a638b77b46eb) | Belanova | `03:05` |
+| <img src="https://i.ibb.co/TB3qKY0t/imagen.jpg" width="30" align="center" /> | [La Noche Mas Linda Del Mundo](https://open.spotify.com/intl-es/track/3scW7pt0vlhkCCgCNv5YR9?si=55d84b6711004f1e) | Adalberto Santiago | `05:43` |
+| <img src="https://i.ibb.co/xKWdPtLw/imagen.jpg" width="30" align="center" /> | [Feded](https://open.spotify.com/intl-es/track/698ItKASDavgwZ3WjaWjtz?si=a5ae0887e9e94d97) | Alan Walker | `03:32` |
+| <img src="https://i.ibb.co/pVNTzFs/imagen.jpg" width="30" align="center" /> | [Tu Falta De Querer](https://open.spotify.com/intl-es/track/4skuEIloXWuxxgekKupkEH?si=154a30a879d448da) | Mon Laferte | `04:38` |
+| <img src="https://i.ibb.co/dwgLQCvt/imagen.jpg" width="30" align="center" /> | [COQUETA](https://open.spotify.com/intl-es/track/1PREzVLuDT6PSE9sej4wnV?si=d328ce880a864849) | Fuerza Regida | `04:01` |
+  | <img src="https://i.ibb.co/2Hm4wQs/imagen.jpg" width="30" align="center" /> | [Nunca Es Suficiente](https://open.spotify.com/intl-es/track/0HlMshB5JmZjPNbOuOgFHN?si=4b3378232bea4a37) | Los Angeles Azules | `04:26` |
+| <img src="https://i.ibb.co/0RZ3tcF2/imagen.jpg" width="30" align="center" /> | [SpaceBoy](https://open.spotify.com/intl-es/track/5zEQKo9DltxJxWouI5zV9M?si=e2a0d66fc9a449cc) | Mc Lovin XD | `01:09` |
+| <img src="https://i.ibb.co/R4Z9TFtN/imagen.jpg" width="30" align="center" /> | [I Wanna Be Yours](https://open.spotify.com/intl-es/track/5XeFesFbtLpXzIVDNQP22n?si=2e23e362732b4b14) | Arctic Monkeys | `03:03` |
+| <img src="https://i.ibb.co/mrTrr9vv/imagen.jpg" width="30" align="center" /> | [Vamonos A Marte](https://open.spotify.com/intl-es/track/1qBdJHxR2qY0dFad0ZI8sj?si=df5517f876cc415e) | Kevin Kaarl | `02:59` |
 
-> 💡 **Tips:** Haz click en cualquier "Track" para escuchar la canción en Spotify. Completa los datos de cada canción reemplazando los textos en *cursiva*.
+> 💡 **Tips:** Haz click en cualquier "Canción" para escuchar la canción en Spotify
 
 ---
 
@@ -63,10 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Risamor&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risamor&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
+*Próximamente...*
 
 ---
 
@@ -74,7 +71,7 @@
   
   ### 🎵 *"Código que suena, música que funciona"* 🎧
   
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tu_usuario)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ls7emj3ka6iahtbcbk2tbceqna)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Risamor)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q39aVhwQue)
   
