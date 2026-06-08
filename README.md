@@ -1,4 +1,5 @@
 # Un gusto, soy Risamor 👋
+
 ## Sobre Mi:
 Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyectos interesantes
 
@@ -18,7 +19,6 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 [![Logo de la cancion XD](https://i.ibb.co/0RZ3tcF2/imagen.jpg)](https://open.spotify.com/intl-es/track/5zEQKo9DltxJxWouI5zV9M?si=e2a0d66fc9a449cc)
 [![Logo de la cancion XD](https://i.ibb.co/R4Z9TFtN/imagen.jpg)](https://open.spotify.com/intl-es/track/5XeFesFbtLpXzIVDNQP22n?si=2e23e362732b4b14)
 [![Logo de la cancion XD](https://i.ibb.co/mrTrr9vv/imagen.jpg)](https://open.spotify.com/intl-es/track/1qBdJHxR2qY0dFad0ZI8sj?si=df5517f876cc415e)
-
 
 ---
 
@@ -50,6 +50,8 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
   </a>
 </p>
 
+</div>
+
 <div align="center">
 
 ### 🏦 Tema personalizado para Shopify!
@@ -69,9 +71,11 @@ Desarrollador y amante de la música, siempre buscando nuevos sonidos y proyecto
 </p>
 
 <strong>--| **Más, muy pronto.....** |--</strong><br>
+
 </div>
 
 ## Donde trabajo:
+
 ![xd1](https://skillicons.dev/icons?i=anaconda&theme=light)
 ![xd1](https://skillicons.dev/icons?i=bots&theme=light)
 ![xd1](https://skillicons.dev/icons?i=linux&theme=light)
